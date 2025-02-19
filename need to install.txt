@@ -1,0 +1,9 @@
+1. Bonezegei_DHT11
+2. DFRobot_DHT11
+3. DHT sensor library
+4. DHT11
+5. DHTlib
+6. LiquidCrystal 12C
+7. Adafruit BusIO
+8. Adafruit BMP280 Library
+9. Adafruit Unified Sensor
